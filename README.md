@@ -10,7 +10,7 @@
 
   ## Tech Stack
 
-  - **Backend:** Ruby on Rails, Ruby, Go
+  - **Backend:** Ruby on Rails, Ruby, Go(learning and build simple apps for myself)
   - **APIs:** REST, GraphQL, Shopify
   - **Cloud & Infra:** AWS (SNS, SQS, SMS), Redis, Sidekiq, CI/CD
   - **Databases:** MySQL, SQL
