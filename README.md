@@ -10,13 +10,18 @@
 
   ## Tech Stack
 
-  - **Backend:** Ruby on Rails, Ruby, Go(learning and build simple apps for myself)
+  - **Backend:** Ruby on Rails, Ruby, Go(learning and building apps for me)
   - **APIs:** REST, GraphQL, Shopify
   - **Cloud & Infra:** AWS (SNS, SQS, SMS), Redis, Sidekiq, CI/CD
   - **Databases:** MySQL, SQL
   - **Testing:** RSpec
   - **Monitoring:** NewRelic, Bugsnag
-  - **Other:** ActiveAdmin, Ham
+  - **Other:** ActiveAdmin, Haml
+
+  ## Languages
+
+  - **Ukrainian** — Native (preferred for communication)
+  - **English** — Upper-Intermediate (B2)
 
   ## Contact
 
