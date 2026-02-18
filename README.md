@@ -10,13 +10,13 @@
 
   ## Tech Stack
 
-  **Backend:** Ruby on Rails, Ruby, Go
-  **APIs:** REST, GraphQL, Shopify
-  **Cloud & Infra:** AWS (SNS, SQS, SMS), Redis, Sidekiq, CI/CD
-  **Databases:** MySQL, SQL
-  **Testing:** RSpec
-  **Monitoring:** NewRelic, Bugsnag
-  **Other:** ActiveAdmin, Haml
+  - **Backend:** Ruby on Rails, Ruby, Go
+  - **APIs:** REST, GraphQL, Shopify
+  - **Cloud & Infra:** AWS (SNS, SQS, SMS), Redis, Sidekiq, CI/CD
+  - **Databases:** MySQL, SQL
+  - **Testing:** RSpec
+  - **Monitoring:** NewRelic, Bugsnag
+  - **Other:** ActiveAdmin, Ham
 
   ## Contact
 
