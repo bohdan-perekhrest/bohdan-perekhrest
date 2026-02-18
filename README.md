@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bohdan Perekhrest
 
-<!--
-**bohdan-perekhrest/bohdan-perekhrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Ruby on Rails Developer from Ukraine 🇺🇦
+  Currently building things at Talkable.
 
-Here are some ideas to get you started:
+  ## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Software Engineer** @ Talkable *(Sep 2023 – Present)*
+  - **Software Engineer** @ RubyGarage *(Feb 2022 – Jul 2023)*
+
+  ## Tech Stack
+
+  **Backend:** Ruby on Rails, Ruby, Go
+  **APIs:** REST, GraphQL, Shopify
+  **Cloud & Infra:** AWS (SNS, SQS, SMS), Redis, Sidekiq, CI/CD
+  **Databases:** MySQL, SQL
+  **Testing:** RSpec
+  **Monitoring:** NewRelic, Bugsnag
+  **Other:** ActiveAdmin, Haml
+
+  ## Contact
+
+  📧 winter.summer123456@icloud.com
