@@ -8,6 +8,10 @@
   - **Software Engineer** @ Talkable *(Sep 2023 – Apr 2026)*
   - **Software Engineer** @ RubyGarage *(Feb 2022 – Jul 2023)*
 
+  ## Education
+
+  - **Bachalor's degree** @ Cherkassy National Technical University *(Graduated - 2024)*
+
   ## Tech Stack
 
   - **Backend:** Ruby on Rails, Ruby, Go(learning and building apps for me)
