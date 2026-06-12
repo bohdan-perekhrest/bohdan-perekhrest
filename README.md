@@ -11,12 +11,11 @@
   ## Tech Stack
 
   - **Backend:** Ruby on Rails, Ruby, Go(learning and building apps for me)
-  - **APIs:** REST, GraphQL, Shopify
-  - **Cloud & Infra:** AWS (SNS, SQS, SMS), Redis, Sidekiq, CI/CD
-  - **Databases:** MySQL, SQL, NoSQL
-  - **Testing:** RSpec
-  - **Monitoring:** NewRelic, Bugsnag
-  - **Other:** ActiveAdmin, Haml
+  - **APIs:** REST, GraphQL, Shopify, Mailgun, 3rd Parties
+  - **Cloud & Infra:** AWS (SNS, SQS, S3), Redis, Sidekiq, CI/CD(Github Actions, CircleCI)
+  - **Databases:** MySQL, PostregSQL, Redis, Athena
+  - **Testing:** RSpec, Capybara
+  - **Monitoring:** NewRelic, Bugsnag, CloudWatch
 
   ## Languages
 
